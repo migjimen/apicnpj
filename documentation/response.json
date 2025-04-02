@@ -1,0 +1,186 @@
+{
+  "AdditionalResultFiles": [
+    "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/toc.md",
+    "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/full.md"
+  ],
+  "Start": "2025-04-02T12:16:40.919974+00:00",
+  "End": "2025-04-02T12:20:54.3083041+00:00",
+  "InputToken": 7542,
+  "OutputToken": 9974,
+  "InputToOutputRatio": 1.322460885706709,
+  "Duration": "00:04:13.3883301",
+  "Errors": {},
+  "TotalItemCount": 14,
+  "ProcessedItemCount": 14,
+  "Results": [
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/ErrorResponse.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/ErrorResponse.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/ErrorResponse.java.md",
+          "InputToken": 395,
+          "OutputToken": 496
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/GlobalExceptionHandler.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/GlobalExceptionHandler.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/GlobalExceptionHandler.java.md",
+          "InputToken": 541,
+          "OutputToken": 813
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/SupplierApplication.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/SupplierApplication.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/SupplierApplication.java.md",
+          "InputToken": 466,
+          "OutputToken": 787
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/controller/SupplierController.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/controller/SupplierController.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/controller/SupplierController.java.md",
+          "InputToken": 613,
+          "OutputToken": 1012
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/model/Supplier.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/model/Supplier.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/model/Supplier.java.md",
+          "InputToken": 583,
+          "OutputToken": 755
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/repository/SupplierRepository.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/repository/SupplierRepository.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/repository/SupplierRepository.java.md",
+          "InputToken": 341,
+          "OutputToken": 529
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/service/SupplierService.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/service/SupplierService.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/service/SupplierService.java.md",
+          "InputToken": 663,
+          "OutputToken": 1001
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/main/java/com/example/supplier/util/CodigoUtil.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/main/java/com/example/supplier/util/CodigoUtil.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/main/java/com/example/supplier/util/CodigoUtil.java.md",
+          "InputToken": 698,
+          "OutputToken": 878
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-api/src/test/java/com/example/supplier/SupplierApplicationTests.java",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-api/src/test/java/com/example/supplier/SupplierApplicationTests.java.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-api/src/test/java/com/example/supplier/SupplierApplicationTests.java.md",
+          "InputToken": 341,
+          "OutputToken": 442
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-react-app/src/App.js",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-react-app/src/App.js.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-react-app/src/App.js.md",
+          "InputToken": 384,
+          "OutputToken": 475
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-react-app/src/components/SupplierForm.js",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-react-app/src/components/SupplierForm.js.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-react-app/src/components/SupplierForm.js.md",
+          "InputToken": 1172,
+          "OutputToken": 766
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-react-app/src/components/SupplierList.js",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-react-app/src/components/SupplierList.js.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-react-app/src/components/SupplierList.js.md",
+          "InputToken": 518,
+          "OutputToken": 705
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-react-app/src/index.js",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-react-app/src/index.js.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-react-app/src/index.js.md",
+          "InputToken": 348,
+          "OutputToken": 599
+        }
+      ]
+    },
+    {
+      "SourceItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input/doc/supplier-react-app/src/services/supplierService.js",
+      "Output": [
+        {
+          "TargetItem": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output/doc/supplier-react-app/src/services/supplierService.js.md",
+          "Status": "Done",
+          "Uri": "/ai/jobs/2025-04-02__12-16-40.918__rev_24_03_18/results/doc/supplier-react-app/src/services/supplierService.js.md",
+          "InputToken": 479,
+          "OutputToken": 716
+        }
+      ]
+    }
+  ],
+  "Status": "Completed"
+}

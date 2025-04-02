@@ -1,0 +1,56 @@
+{
+  "DocumentationFormat": "Markdown",
+  "DocumentationAudience": "Software Engineer",
+  "VcsRepositories": [
+    {
+      "Name": "doc",
+      "Title": null,
+      "FolderToUpdate": "/tmp/c9465f1a-7faa-44bd-8491-e92dd0385aa7",
+      "FolderToMonitor": "/tmp/c9465f1a-7faa-44bd-8491-e92dd0385aa7",
+      "ReferenceIdLeft": null,
+      "ReferenceIdRight": null,
+      "ReferenceFromDate": null,
+      "ReferenceToDate": null
+    }
+  ],
+  "DiagramFormat": "Mermaid",
+  "DocCreatorFolder": "wiki",
+  "BaseBranch": "Documents2",
+  "BranchName": "doc-creator",
+  "RepoName": "migjimen/apicnpj",
+  "CreatePullRequestPerFile": null,
+  "Conventions": null,
+  "AdditionalInstructions": null,
+  "PromptId": "DocCreator__DocumentCode_V4",
+  "InputFolder": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Input",
+  "OutputFolder": "Work/DemoDocCreatorGithub/2025-04-02__12-16-40.918__rev_24_03_18/Output",
+  "SearchPattern": "*.js|*.java",
+  "TargetExtension": "md",
+  "Llm": "GPT_4o_USA",
+  "ItemContentPreProcessors": null,
+  "ItemContentPostProcessors": [
+    "WRITE-CONTENT",
+    "COPY-CONTENT"
+  ],
+  "ItemPreProcessors": null,
+  "ItemPostProcessors": null,
+  "JobPreProcessors": [
+    "VCS-CLONE-REPO",
+    "VCS-CHECKOUT-REPO",
+    "READ-CODE-CONVENTIONS"
+  ],
+  "JobPostProcessors": [
+    "RENDER-TOC",
+    "VCS-COMMIT-PUSH-REPO"
+  ],
+  "LlmTools": null,
+  "ResponseJsonFormat": null,
+  "SourceCodeLanguage": "Java",
+  "JobName": null,
+  "CsvFileList": null,
+  "UserId": "administrator",
+  "UserName": null,
+  "JobType": "DocCreator",
+  "IsBudgetByUser": false,
+  "ResponseLanguage": null
+}
